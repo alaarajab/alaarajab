@@ -5,9 +5,9 @@
 
 - I'm a freelancer **Full Stack Engineer**
 
-- 🌱 I’m currently in Software Engineering Bootcamp with **TripleTen**
+- 🌱I graduated from the TripleTen Software Engineering Bootcamp **TripleTen**
 
-- 🔭 I’m currently working on [Spots Project](https://alaarajab.github.io/se_project_spots/)
+- 🔭 I’m currently working on [smilecare Project](https://alaarajab.github.io/smilecare_frontend/)
 
 - 👯 I was volunteering on MedKids Project with **Rebecca Everlene Trust Co**
 
