@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaarajab&label=Profile%20views&color=0e75b6&style=flat" alt="alaarajab" /> </p>
 
-- I'm a freelancer **Full Stack Engineer**
+- I'm a **Full Stack Engineer**
 
 - 🌱I graduated from the TripleTen Software Engineering Bootcamp **TripleTen**
 
