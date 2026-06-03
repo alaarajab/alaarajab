@@ -7,7 +7,7 @@
 
 - 🌱I graduated from the TripleTen Software Engineering Bootcamp **TripleTen**
 
-- 🔭 I’m currently working on [hybrid-hiring](https://github.com/tripleten-externships/hybrid-hiring) and [
+- 🔭 I’m currently working on [
 commission-tracker](https://github.com/alaarajab/commission-tracker)
 
 - 👯 I was volunteering on MedKids Project with **Rebecca Everlene Trust Co**
