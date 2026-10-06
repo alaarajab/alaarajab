@@ -5,6 +5,8 @@
 
 - I'm a **Full Stack Engineer**
 
+- 🦷 I designed and built **[Cosmo Dental Clinic](https://www.cosmodentalusa.com)**, a bilingual (English/Spanish), accessible (WCAG 2.2 AA), SEO-optimized website for a dental clinic in Northlake, IL. Built with React + Vite and hosted on Cloudflare.
+
 - 🌱I graduated from the TripleTen Software Engineering Bootcamp **TripleTen**
 
 - 🔭 I’m currently working on [
