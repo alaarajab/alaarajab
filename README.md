@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaarajab&label=Profile%20views&color=0e75b6&style=flat" alt="alaarajab" /> </p>
 
-- I'm a **Full Stack Engineer**
+- I'm a **Software Engineer**
 
 - 🦷 I designed and built **[Cosmo Dental Clinic](https://www.cosmodentalusa.com)**, a bilingual (English/Spanish), accessible (WCAG 2.2 AA), SEO-optimized website for a dental clinic in Northlake, IL. Built with React + Vite and hosted on Cloudflare.
 
